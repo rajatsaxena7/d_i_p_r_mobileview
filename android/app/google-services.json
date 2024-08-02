@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1080485577767",
+    "firebase_url": "https://dipr-6b4e7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dipr-6b4e7",
+    "storage_bucket": "dipr-6b4e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080485577767:android:e331f05f775c47d741ba02",
+        "android_client_info": {
+          "package_name": "com.gully2global.dipr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXEA0YtH7YN8N5Kt90Seabwv53-2Uvme4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080485577767:android:9c6105b738f6eaef41ba02",
+        "android_client_info": {
+          "package_name": "com.mycompany.dipr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXEA0YtH7YN8N5Kt90Seabwv53-2Uvme4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

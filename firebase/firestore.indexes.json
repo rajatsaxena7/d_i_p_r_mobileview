@@ -1,0 +1,402 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "approved_add",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "deputyStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dateofAproval",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "approved_add",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "FaoStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "directorStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "deputyStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "statusSecretary",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dateofAproval",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "approved_add",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isaprroved",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dateofAproval",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "notification_Admin",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isdeputy",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Created",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "approved_add",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "directorStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dateofAproval",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "approved_add",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "FaoStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "directorStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "statusSecretary",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dateofAproval",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "notification_Admin",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isFoa",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Created",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "approved_add",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "FaoStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dateofAproval",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "approved_add",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "statusSecretary",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "FaoStatus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dateofAproval",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "notification_Admin",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isDirector",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Created",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "approved_add",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "ispending",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "division",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "userref",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dateofAproval",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "approved_add",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isaprroved",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "division",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "userref",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dateofAproval",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "notification_Admin",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "assistantdashboard",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "assistantstate",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Created",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isVendor",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "localnewspapers",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "vendorId",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isVendor",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "RegionalNewspaper",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "display_name",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isVendor",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "isnationalnewspaper",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "display_name",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "NewspaperJobAllocation",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "newspaperrefuserref",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "ronumber",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "notification_Admin",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isVendor",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "userref",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "Created",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Advertisement",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isuploaded",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "RODATE",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "approved_add",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "accountant_status",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dateofAproval",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "notification_Admin",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "isAccountant",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Created",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "approved_add",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "statusSecretary",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "dateofAproval",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "notification_Admin",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "assistantdashboard",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "assistantstate",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Created",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "fcm_tokens",
+      "fieldPath": "fcm_token",
+      "indexes": [
+        {
+          "order": "ASCENDING",
+          "queryScope": "COLLECTION_GROUP"
+        }
+      ]
+    }
+  ]
+}
